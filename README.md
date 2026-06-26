@@ -1,7 +1,7 @@
 
-  # CRYPTEX.COM
+  # cryptex
 
-  This is a code bundle for CRYPTEX.COM. The original project is available at https://www.figma.com/design/WviHHMxIlriN77BzmRNTNS/CRYPTEX.COM.
+  This is a code bundle for cryptex. The original project is available at https://www.figma.com/design/WviHHMxIlriN77BzmRNTNS/cryptex.
 
   ## Running the code
 
